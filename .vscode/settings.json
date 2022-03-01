@@ -7,5 +7,9 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
-    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
 }
